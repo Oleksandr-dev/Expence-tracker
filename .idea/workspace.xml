@@ -1,7 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a6b8243d-0ec8-46cb-bbbd-cc8ff33a9d78" name="Default Changelist" comment="" />
+    <list default="true" id="a6b8243d-0ec8-46cb-bbbd-cc8ff33a9d78" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/expense-tracker-react-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HistoryTransaction/HistoryTransactionList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Home/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AddTransaction.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Balance.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/IncomeExpenses.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/LocalStorageTransaction.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Transaction.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TransactionList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/context/AppReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/context/GlobalState.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/localStorage/SaveToStorage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/localStorage/loadFromStorage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,7 +91,7 @@
       <workItem from="1611487839589" duration="24033000" />
       <workItem from="1612704063114" duration="673000" />
       <workItem from="1612808102228" duration="1038000" />
-      <workItem from="1616581060171" duration="870000" />
+      <workItem from="1616581060171" duration="1185000" />
     </task>
     <servers />
   </component>
